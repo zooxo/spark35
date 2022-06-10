@@ -1,5 +1,6 @@
 # SPARK35 - HP-35 Emulator on Arduino
 
+See a video at: https://youtu.be/l01LcFuFtyg
 
 ```
   Welcome to SPARK35 - a HP-35 emulator on Arduino
